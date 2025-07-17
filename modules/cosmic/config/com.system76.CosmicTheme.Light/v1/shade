@@ -1,1 +1,6 @@
-/nix/store/fzfdjfnq2hmzvmsjb0jbfmgz875gzsgf-home-manager-files/.config/cosmic/com.system76.CosmicTheme.Light/v1/shade
+(
+    red: 0.0,
+    green: 0.0,
+    blue: 0.0,
+    alpha: 0.08,
+)

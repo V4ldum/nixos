@@ -1,1 +1,5 @@
-/nix/store/fzfdjfnq2hmzvmsjb0jbfmgz875gzsgf-home-manager-files/.config/cosmic/com.system76.CosmicTheme.Dark.Builder/v1/accent
+Some((
+    red: 0.7921569,
+    green: 0.7294118,
+    blue: 0.7058824,
+))

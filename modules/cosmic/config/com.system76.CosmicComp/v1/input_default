@@ -1,1 +1,9 @@
-/nix/store/fzfdjfnq2hmzvmsjb0jbfmgz875gzsgf-home-manager-files/.config/cosmic/com.system76.CosmicComp/v1/input_default
+(
+    state: Enabled,
+    scroll_config: Some((
+        method: None,
+        natural_scroll: Some(false),
+        scroll_button: None,
+        scroll_factor: None,
+    )),
+)

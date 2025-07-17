@@ -1,1 +1,7 @@
-/nix/store/fzfdjfnq2hmzvmsjb0jbfmgz875gzsgf-home-manager-files/.config/cosmic/com.system76.CosmicAppList/v1/favorites
+[
+    "smartcode-stremio",
+    "com.github.iwalton3.jellyfin-media-player",
+    "bitwarden",
+    "zen-beta",
+    "com.system76.CosmicTerm",
+]
