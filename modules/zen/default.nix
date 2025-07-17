@@ -1,4 +1,4 @@
-{ pkgs, inputs, username, ... }:
+{ username, ... }:
 
 let
   zenSrc = "/etc/nixos/modules/zen/config";

@@ -1,4 +1,4 @@
-{ pkgs, inputs, username, ... }:
+{ pkgs, username, ... }:
 
 let
   cosmicSrc = "/etc/nixos/modules/cosmic/config";
